@@ -9,11 +9,11 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 📈 **Estadísticas de GitHub:**  
-![Estadísticas](https://github-readme-stats.vercel.app/api?username=fabio-rojas&show_icons=true&theme=radical)
+![Estadísticas](https://github-readme-stats.vercel.app/api?username=ninjaherodev&show_icons=true&theme=radical)
 
 🚀 **Proyectos destacados:**  
-- 🔗 [Mi proyecto más interesante](https://github.com/fabio-rojas/awesome-project)  
-- 🔗 [Herramienta útil que creé](https://github.com/fabio-rojas/useful-tool)
+- 🔗 [Mi proyecto más interesante](https://github.com/ninjaherodev/awesome-project)  
+- 🔗 [Herramienta útil que creé](https://github.com/ninjaherodev/useful-tool)
 
 🌐 **Conéctate conmigo:**  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabio-rojas/)
