@@ -16,8 +16,8 @@
 - 🔗 [Herramienta útil que creé](https://github.com/ninjaherodev/useful-tool)
 
 👟 **Actividad reciente:**  
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:activity-->
+<!--RECENT_ACTIVITY:last_update-->
 
 🌐 **Conéctate conmigo:**  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabio-a-rojas-martha-78ab6b29/)
