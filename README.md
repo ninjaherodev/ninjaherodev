@@ -16,7 +16,7 @@
 - 🔗 [Herramienta útil que creé](https://github.com/ninjaherodev/useful-tool)
 
 👟 **Actividad reciente:**  
-<!--RECENT_ACTIVITY:activity-->
+<!--RECENT_ACTIVITY:start-->
 <!--RECENT_ACTIVITY:last_update-->
 
 🌐 **Conéctate conmigo:**  
