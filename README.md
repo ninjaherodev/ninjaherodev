@@ -15,6 +15,10 @@
 - 🔗 [Mi proyecto más interesante](https://github.com/ninjaherodev/awesome-project)  
 - 🔗 [Herramienta útil que creé](https://github.com/ninjaherodev/useful-tool)
 
+👟 **Actividad reciente:**  
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 🌐 **Conéctate conmigo:**  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabio-a-rojas-martha-78ab6b29/)
 [![Correo](https://img.shields.io/badge/-fabiorojas7@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:fabiorojas7@gmail.com)
