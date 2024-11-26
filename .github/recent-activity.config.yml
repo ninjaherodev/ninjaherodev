@@ -1,0 +1,6 @@
+recent_activity:
+  enabled_events:
+    - PushEvent
+    - PullRequestEvent
+    - IssuesEvent
+    - ReleaseEvent
