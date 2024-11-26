@@ -12,5 +12,8 @@ jobs:
     steps:
        - uses: actions/checkout@v2
        - uses: Readme-Workflows/recent-activity@v2.4.1
+         with:
+          GH_USERNAME: ninjaherodev # Tu nombre de usuario de GitHub
+          CONFIG_FILE: ./.github/recent-activity.config.yml
          env:
             GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
